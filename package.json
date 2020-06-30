@@ -52,6 +52,7 @@
   },
   "dependencies": {
     "@playpuppy/puppyjs": "^0.1.3",
-    "matter-js": "^0.14.2"
+    "matter-js": "^0.14.2",
+    "monaco-editor": "^0.20.0"
   }
 }
